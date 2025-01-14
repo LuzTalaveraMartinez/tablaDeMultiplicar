@@ -1,4 +1,4 @@
-# tablaDeMultiplicar
+# TablaDeMultiplicar
 
  Sistema de multiplicar valores realizado con el ciclo WHILE, excepciones como Try y Catch.
 
